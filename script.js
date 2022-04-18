@@ -165,4 +165,5 @@ function draw(){
 	x += dx;
 	y += dy;
 }
+// [CONFIDENTIAL] SECRET DISCORD SERVER INVITATION CODE LoYUInWAFzf5FbKb5yjc6iRtTzY6LWLE2YWMzmq DO NOT SHARE!
 setInterval(draw,7);
